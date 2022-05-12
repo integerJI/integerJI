@@ -14,6 +14,9 @@ and I like to go on trips and take pictures and eat delicious food.
 ### **Come to play**
 <a href="https://integer-ji.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-30363D?style=flat-square&logo=GitHub-Sponsors&logoColor=white"/></a> <a href="mailto:jjs9536@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
+### Hits !!! ###
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FintegerJI&count_bg=%238E8E8E&title_bg=%23000000&icon=instacart.svg&icon_color=%23F17731&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!--
 **integerJI/integerJI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
