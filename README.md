@@ -1,6 +1,6 @@
 ### Hi there, I am JeongSu. 👋
 I'm a backend developer skilled in API, DB, and Server.
-I have three years of backend development experience and am studying to be a good developer.
+I have three years of backend development experience and studying to be a good developer.
 
 My hobbies are running, biking, traveling,
 and I like to go on trips and take pictures and eat delicious food.
