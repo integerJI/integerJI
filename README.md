@@ -6,7 +6,15 @@
   <a href="mailto:jjs9536@gmail.com">Email</a>
 </p>
 
-I build APIs, automate repetitive work, and turn ideas into tools people can use.
+I’m a backend developer and builder. I like turning repetitive work into software and testing ideas by building something I can actually use. Lately, that’s meant running a social media toolkit for marketers, building a golf course designer you can play in 3D, and setting up AI assistants for my own workflows.
+
+<details>
+<summary>한국어 소개</summary>
+
+안녕하세요, 정수입니다 👋  
+저는 백엔드 개발자이자 빌더입니다. 반복되는 일을 소프트웨어로 줄이고, 아이디어가 떠오르면 직접 쓸 수 있는 도구로 만들어 시험해보는 걸 좋아해요. 요즘은 마케터를 위한 SNS 운영 도구를 운영하고, 설계한 코스를 3D에서 직접 플레이해볼 수 있는 골프 코스 제작 도구를 만들고 있어요. 제 작업 방식에 맞춰 AI 어시스턴트 환경도 꾸리고 있고요.
+
+</details>
 
 ## What I’m building
 
